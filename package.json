@@ -1,0 +1,11 @@
+{
+  "name": "saturday-docker-assignment",
+  "version": "1.0.0",
+  "description": "Saturday's Node.js Docker deployment assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Saturday",
+  "license": "MIT"
+}
