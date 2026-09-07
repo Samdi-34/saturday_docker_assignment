@@ -1,17 +1,17 @@
 # saturday_docker_assignment
 
-# Docker build command
+# Docker build command image
 
-/c/Users/ogund/OneDrive/Documents/Pictures/Screenshots/docker_build_command.png
+/c/Users/ogund/Desktop/saturday_docker_assignment/image/docker_build_command.png
 
 # Command that show the running of the docker container
 
-/c/Users/ogund/OneDrive/Documents/Pictures/Screenshots/docker_container_runnning.png 
+/c/Users/ogund/Desktop/saturday_docker_assignment/image/docker_container_runnning.png 
 
 # Image on Docker Hub
 
-/c/Users/ogund/OneDrive/Documents/Pictures/Screenshots/docker_hub.png '
+docker_hub.png
 
-# Image of the Application Live
+# Image of Live Application
 
-/c/Users/ogund/OneDrive/Documents/Pictures/Screenshots/live _application.png'
+live_application.png
